@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>做一个测试 shit</title>
+    <title>做一个测试 shit fuck</title>
     <script src="Scripts/jquery-1.8.0.min.js" type="text/javascript"></script>
     <link href="Css/common.css" rel="stylesheet" type="text/css" />
     <link href="Css/powerFloat.css" rel="stylesheet" type="text/css" />
