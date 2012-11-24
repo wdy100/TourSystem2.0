@@ -14,25 +14,13 @@
             $("#text1").powerFloat({
                 eventType: "focus",
                 targetMode: "remind",
-                targetAttr: "placeholder" 
-                //position: "1-4"
+                targetAttr: "" 
+                position: "1-4"
             });
         })
     </script>
 </head>
 
 <body>
-    <form id="form1" runat="server">
-    <div>
-        <asp:Button ID="Button1" runat="server" onclick="Button1_Click" Text="编辑线路计划" />
-        <asp:Button ID="Button2" runat="server" onclick="Button2_Click" Text="新建线路" />
-        <asp:Button ID="Button3" runat="server" onclick="Button3_Click" Text="订单列表" />
-        <asp:Button ID="Button5" runat="server" OnClick="Button4_Click" Text="收款列表" />
-
-        <asp:Button ID="Button4" runat="server" Text="Button" onclick="Button4_Click" />
-                <input type="text" id="text1" placeholder="王大昌　 　 　 　 　 "/>
-        
-    </div>
-    </form>
-</body>
+ </body>
 </html>
